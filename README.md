@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at National Institute of Technology Durgapur.
-- 💼 &nbsp; Working as a Software Engineer Intern at FreeCharge(subsidiary of Axis Bank).
+- 💼 &nbsp; Working as Frontend Engineer at Likeminds.
 - 🌱 &nbsp; Learning more about Frontend and Backend Technologies. 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
